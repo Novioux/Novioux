@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.NAVBAR > button{
+    color: black;
+    background-color: rgba(2, 66, 21, 0.473);
+    border-width: 0;
+    height: 40px;
+    width: 125px;
+}
+.NAVBAR > button:hover{
+    color: white;
+    background-color: darkgreen;
+}
