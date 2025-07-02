@@ -13,3 +13,20 @@
     color: black;
     background-color: grey;
 }
+.NAVBAR {
+    background-color: black;
+}
+.image img{
+    width: 100%;
+    height: auto;
+    align-self: flex-start;
+}
+.main h1{
+    font-family: 'Segoe UI', arial, sans-serif;
+    font-weight: normal;
+}.main P{
+    font-family: "Lato", sans-serif;
+}
+.main h3{
+   
+}
